@@ -28,6 +28,9 @@
   <li> <a href="${pageContext.request.contextPath}/user/list.do">User 목록</a> </li>
   <li> <a href="${pageContext.request.contextPath}/user/add.do">User 등록</a> </li>
   <li> <a href="${pageContext.request.contextPath}/user/list.do">User 목록</a> </li>
+   <li> <a href="${pageContext.request.contextPath}/user/list.do">User 목록</a> </li>
+  <li> <a href="${pageContext.request.contextPath}/user/add.do">User 등록</a> </li>
+  <li> <a href="${pageContext.request.contextPath}/user/list.do">User 목록</a> </li>
 </c:if>
 </ul>
 </body>
